@@ -1,0 +1,9 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+.text-area{
+    resize: none;
+    height: 200px;
+}
